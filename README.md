@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @NikosTokmakidis
-- 👀 I’m interested in motorsport racing and developing apps
-- 🌱 I’m currently learning python
+Intrested in shell scripting and python programs
+Student
 
 <!---
 NikosTokmakidis/NikosTokmakidis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
